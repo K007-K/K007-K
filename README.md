@@ -37,7 +37,7 @@ If you're building something meaningful — let's connect and make it real.
 |:--|:--:|
 | **💻 Languages** | <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,html,css" height="40" /> |
 | **🌐 Web & Mobile** | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,vite,tailwind" height="40" /> |
-| **🤖 AI / ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,langchain" height="40" /> &nbsp; • RAG • Hugging Face • LLMs |
+| **🤖 AI / ML** | `RAG` `Hugging Face` `LLMs` `Transformers` `LangChain` |
 | **🗄️ Databases/Platforms** | <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,postgres,mongodb" height="40" /> |
 | **🧑‍💻 Developer Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,vscode,linux" height="40" /> |
 
